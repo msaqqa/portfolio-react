@@ -12,7 +12,6 @@ import Glassesimoji from "../../img/glassesimoji.png";
 import FloatingDiv from "../FloatingDiv";
 import { ThemeContext } from "../../context/theme";
 import { motion } from "framer-motion";
-import { Link } from "react-scroll";
 
 function Inro() {
   // context
@@ -31,7 +30,7 @@ function Inro() {
             development, producting the quality work
           </span>
         </div>
-        <a href="https://www.linkedin.com/in/ma-saqqa/" target="_blank">
+        <a href="https://www.linkedin.com/in/ma-saqqa/" target="_blank" rel="noreferrer">
           <button className="button i-button">Hire Me</button>
         </a>
         {/* social icons */}

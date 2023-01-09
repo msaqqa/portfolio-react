@@ -27,7 +27,7 @@ function Works() {
             <br />
             ispum is simpley dummy text of printing
           </span>
-          <a href='#'>
+          <a href='https://www.linkedin.com/in/ma-saqqa/'>
             <button className="button s-button">Hire Me</button>
           </a>
         </div>
